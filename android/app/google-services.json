@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496739590795",
+    "project_id": "sbc-league",
+    "storage_bucket": "sbc-league.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496739590795:android:6df679b7ac6104e5c52a8e",
+        "android_client_info": {
+          "package_name": "com.example.sbc_league"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496739590795-628f2q9eujqeuf7o2lrtefsvbj2l2nom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw-EjWkSmtFRunCXmwwB3bx9yMdFNvwos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496739590795-628f2q9eujqeuf7o2lrtefsvbj2l2nom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
